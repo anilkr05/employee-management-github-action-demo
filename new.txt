@@ -1,2 +1,4 @@
 Hi all,
 This is test for reset cmd.
+line-3
+line-4
